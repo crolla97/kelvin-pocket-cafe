@@ -13,10 +13,11 @@ header {
     height: 40px;
   }
 
-  p {
+  span {
     font-size: $xs-size;
-    color: white;
+    color: #FFF;
     padding: 10px;
+    text-decoration: none;
   }
 }
 

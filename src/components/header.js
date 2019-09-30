@@ -6,9 +6,9 @@ const Header = () => {
 
   return (
     <header>
-      <p>07793 315700</p>
+      <span>07793 315700</span>
       <img src={require('../images/kelvin-logo.png')} alt="logo" className="logo"/>
-      <p>72 S Woodside Rd</p>
+      <span>72 S Woodside Rd</span>
     </header>
   )
 }
