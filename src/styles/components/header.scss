@@ -1,0 +1,49 @@
+@import '../styles.scss';
+
+header {
+  background-color: $kelvin;
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 5px 0;
+
+  img {
+    height: 40px;
+  }
+
+  p {
+    font-size: $xs-size;
+    color: white;
+    padding: 10px;
+  }
+}
+
+/****************
+* MEDIA QUERIES *
+****************/
+
+@media only screen and (min-width:568px) {
+
+}
+
+@media only screen and (min-width:768px) {
+  
+}
+
+@media only screen and (min-width:992px) {
+  header {
+
+    img {
+      height: 60px;
+    }
+    p  {
+      font-size: $m-size;
+    }
+  }
+}
+
+@media only screen and (min-width:1200px) {
+  
+}
