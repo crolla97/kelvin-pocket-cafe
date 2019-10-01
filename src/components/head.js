@@ -20,13 +20,13 @@ export default () =>
     <meta property="og:description" content="Independent West End Glasgow cafe serving breakfast, lunch and home baked treats"/>
     <meta property="og:locale" content="en_GB"/>
     <meta property="og:site_name" content="Kelvin Pocket"/>
-    <meta property="og:image" content=""/>
+    <meta property="og:image" content="https://kelvinpocket.netlify.com/static/cover-min.png"/>
     {/* <!-- Twitter Tags --> */}
     <meta property="twitter:card" content="summary_large_image"/>
     <meta property="twitter:url" content="https://metatags.io/"/>
     <meta property="twitter:title" content="Kelvin Pocket- Home"/>
     <meta property="twitter:description" content="Independent West End Glasgow cafe serving breakfast, lunch and home baked treats"/>
-    <meta property="twitter:image" content=""/>
+    <meta property="twitter:image" content="https://kelvinpocket.netlify.com/static/cover-min.png"/>
     {/* <!-- Favicomatic --> */}
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
