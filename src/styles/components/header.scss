@@ -8,6 +8,7 @@ header {
   justify-content: space-between;
   align-items: flex-end;
   padding: 5px 0;
+  display: none;
 
   img {
     height: 40px;
@@ -40,6 +41,9 @@ header {
       height: 60px;
     }
     p  {
+      font-size: $m-size;
+    }
+    span {
       font-size: $m-size;
     }
   }

@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <section>
         <div className="address">
-          <h3>WHERE TO FIND US</h3>
+          <h3>WHERE ARE WE?</h3>
           <span>72 S Woodside Rd,<br/>
           Glasgow G4 9HG</span>
         </div>
