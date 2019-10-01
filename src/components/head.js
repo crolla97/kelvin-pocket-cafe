@@ -15,7 +15,7 @@ export default () =>
     <meta property="business:contact_data:country_name" content="United Kingdom (UK)"/>
     <meta property="business:contact_data:postal_code" content="G4 9HG"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://metatags.io/"/>
+    <meta property="og:url" content="https://kelvinpocket.netlify.com/"/>
     <meta property="og:title" content="Kelvin Pocket- Home"/>
     <meta property="og:description" content="Independent West End Glasgow cafe serving breakfast, lunch and home baked treats"/>
     <meta property="og:locale" content="en_GB"/>
@@ -23,7 +23,7 @@ export default () =>
     <meta property="og:image" content="https://kelvinpocket.netlify.com/static/coffee-826890446b63e70996dabc37055fb6ea.png"/>
     {/* <!-- Twitter Tags --> */}
     <meta property="twitter:card" content="summary_large_image"/>
-    <meta property="twitter:url" content="https://metatags.io/"/>
+    <meta property="twitter:url" content="https://kelvinpocket.netlify.com/"/>
     <meta property="twitter:title" content="Kelvin Pocket- Home"/>
     <meta property="twitter:description" content="Independent West End Glasgow cafe serving breakfast, lunch and home baked treats"/>
     <meta property="twitter:image" content="https://kelvinpocket.netlify.com/static/coffee-826890446b63e70996dabc37055fb6ea.png"/>
